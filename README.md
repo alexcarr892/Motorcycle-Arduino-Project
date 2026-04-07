@@ -12,6 +12,7 @@ Two MLX90614 IR temperature sensors are pointed at each tire and connected throu
 
 - Displays current temps on a 16x2 LCD in real time
 - Hosts a web server (via mobile hotspot) that graphs temperature over time so you can see how your tires are heating up through a session
+  
   [![Tire Temp Monitor Demo](https://img.youtube.com/vi/lW1h78ux6xA/0.jpg)](https://youtu.be/lW1h78ux6xA)
 
 ---
