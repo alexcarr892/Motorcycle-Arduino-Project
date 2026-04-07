@@ -11,7 +11,7 @@ An ESP32-based system that reads real-time tire temperatures using IR sensors an
 Two MLX90614 IR temperature sensors are pointed at each tire and connected through a TCA9548A I2C multiplexer (which allows multiple sensors sharing the same I2C address to coexist on one bus). The ESP32 reads both sensors and does two things simultaneously:
 
 - Displays current temps on a 16x2 LCD in real time
-- Hosts a web server (via mobile hotspot) that graphs temperature over time so you can see how your tires are heating up through a session [![Tire Temp Monitor Demo](https://youtu.be/lW1h78ux6xA)
+- Hosts a web server (via mobile hotspot) that graphs temperature over time so you can see how your tires are heating up through a session [![Tire Temp Monitor Demo](https://img.youtube.com/vi/lW1h78ux6xA/0.jpg)](https://youtu.be/lW1h78ux6xA)
 
 ---
 
